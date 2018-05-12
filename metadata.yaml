@@ -1,4 +1,5 @@
 _repo: Father-Henson-s-Story-of-His-Own-Life-Truth-Stranger-Than-Fiction_49129
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Stowe, Harriet Beecher
@@ -11,12 +12,17 @@ contributor:
     gutenberg_agent_id: '115'
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+covers:
+- cover_type: archival
+  image_path: 49129-h/images/cover.jpg
 creator:
   author:
     agent_name: Henson, Josiah
     gutenberg_agent_id: '45155'
     url: http://www.gutenberg.org/2009/agents/45155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49129#Father-Henson-s-Story-of-His-Own-Life-Truth-Stranger-Than-Fiction
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
